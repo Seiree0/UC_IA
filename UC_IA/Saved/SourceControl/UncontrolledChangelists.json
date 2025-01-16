@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/ThirdPerson/Blueprints/IA_FirstNPC.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/ThirdPerson/Blueprints/BP_FirstNPC.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/IA_BP/IA_Character/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/IA_BP/IA_Character/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/IA_BP/IA_Controller/IA_Controller.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/IA_BP/IA_Controller/IA_ControllerNPC.uasset",
+				"D:/UnrealProyects/UC_IA/UC_IA/Content/IA_BP/IA_Character/BP_SimpleNPC.uasset"
+			]
+		}
+	]
+}
